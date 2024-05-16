@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "expence_tracker-main",
+            "cwd": "expence_tracker-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "expence_tracker-main (profile mode)",
+            "cwd": "expence_tracker-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "expence_tracker-main (release mode)",
+            "cwd": "expence_tracker-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
